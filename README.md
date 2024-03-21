@@ -2,8 +2,12 @@
 KFC (Knowledge Forgetting Curve) Forgetting Curve) is a Web Application to use [Ebbinghaus Forgetting Curve](https://zhuanlan.zhihu.com/p/109107882) for learning.
 
 ## Tech Stack
-* Vue3 Latest ecosystem (Nuxt/Quasar/...)
+* Vue3 Latest ecosystem (Nuxt/Quasar/ionic framework (vue)/...)
 * LocalForge
 * PWA
 * Echarts.js
 * Typescript
+
+## Features
+* Content to learn can be imported via .json files with specific patterns
+* Content and settings can be save in browser local storage, which means to study and work in a specific browser.
