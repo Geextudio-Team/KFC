@@ -16,3 +16,4 @@ KFC (Knowledge Forgetting Curve) Forgetting Curve) is a Web Application to use [
   * Online Edition: Content and settings can be save in browser local storage, which means to study and work in a specific browser.
   * Offline Eidtion: Content and settings can be save in Database, which means to deploy it in a local server. (TBD in future)
 * Study Cards / Content in Cards can be Dragged and Dropped
+* Support Multi-languages (中文/English/...)
