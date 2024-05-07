@@ -1747,5 +1747,786 @@
     "example": ""
     },
 
+  {
+    "index": 250,
+    "word": "below",
+    "partofspeech": "adv & prep",
+    "chinese": "在...下面",
+    "example": ""
+  },
+  {
+    "index": 251,
+    "word": "belt",
+    "partofspeech": "n",
+    "chinese": "带子",
+    "example": ""
+  },
+  {
+    "index": 252,
+    "word": "beside",
+    "partofspeech": "adv & prep",
+    "chinese": "在...旁边",
+    "example": ""
+  },
+  {
+    "index": 253,
+    "word": "besides",
+    "partofspeech": "prep",
+    "chinese": "除了",
+    "example": ""
+  },
+  {
+    "index": 254,
+    "word": "best",
+    "partofspeech": "adj & adv",
+    "chinese": "最好的",
+    "example": ""
+  },
+  {
+    "index": 255,
+    "word": "better",
+    "partofspeech": "adj & adv",
+    "chinese": "更好的",
+    "example": ""
+  },
+  {
+    "index": 256,
+    "word": "between",
+    "partofspeech": "prep & adv",
+    "chinese": "在...之间",
+    "example": ""
+  },
+  {
+    "index": 257,
+    "word": "beyond",
+    "partofspeech": "prep & adv",
+    "chinese": "超出",
+    "example": ""
+  },
+  {
+    "index": 258,
+    "word": "bicycle",
+    "partofspeech": "n",
+    "chinese": "自行车",
+    "example": ""
+  },
+  {
+    "index": 259,
+    "word": "big",
+    "partofspeech": "adj",
+    "chinese": "大的",
+    "example": ""
+  },
+  {
+    "index": 260,
+    "word": "bike",
+    "partofspeech": "n",
+    "chinese": "自行车",
+    "example": ""
+  },
+  {
+    "index": 261,
+    "word": "bill",
+    "partofspeech": "n",
+    "chinese": "账单",
+    "example": "• electricity bill"
+  },
+  {
+    "index": 262,
+    "word": "bin",
+    "partofspeech": "n",
+    "chinese": "垃圾桶",
+    "example": ""
+  },
+  {
+    "index": 263,
+    "word": "biography",
+    "partofspeech": "n",
+    "chinese": "传记",
+    "example": ""
+  },
+  {
+    "index": 264,
+    "word": "biology",
+    "partofspeech": "n",
+    "chinese": "生物学",
+    "example": ""
+  },
+  {
+    "index": 265,
+    "word": "bird",
+    "partofspeech": "n",
+    "chinese": "鸟",
+    "example": ""
+  },
+  {
+    "index": 266,
+    "word": "birth",
+    "partofspeech": "n",
+    "chinese": "出生",
+    "example": ""
+  },
+  {
+    "index": 267,
+    "word": "birthday",
+    "partofspeech": "n",
+    "chinese": "生日",
+    "example": ""
+  },
+  {
+    "index": 268,
+    "word": "biscuit",
+    "partofspeech": "n",
+    "chinese": "饼干",
+    "example": ""
+  },
+  {
+    "index": 269,
+    "word": "bit",
+    "partofspeech": "n",
+    "chinese": "一点",
+    "example": ""
+  },
+  {
+    "index": 270,
+    "word": "bite",
+    "partofspeech": "v",
+    "chinese": "咬",
+    "example": ""
+  },
+  {
+    "index": 271,
+    "word": "bitter",
+    "partofspeech": "adj",
+    "chinese": "苦的",
+    "example": ""
+  },
+
+  {
+    "index": 272,
+    "word": "black",
+    "partofspeech": "adj & n",
+    "chinese": "黑色的",
+    "example": ""
+  },
+  {
+    "index": 273,
+    "word": "blackboard",
+    "partofspeech": "n",
+    "chinese": "黑板",
+    "example": ""
+  },
+  {
+    "index": 274,
+    "word": "blame",
+    "partofspeech": "v",
+    "chinese": "责备",
+    "example": ""
+  },
+  {
+    "index": 275,
+    "word": "blank",
+    "partofspeech": "adj",
+    "chinese": "空白的",
+    "example": "• a blank piece of paper"
+  },
+  {
+    "index": 276,
+    "word": "blanket",
+    "partofspeech": "n",
+    "chinese": "毯子",
+    "example": ""
+  },
+  {
+    "index": 277,
+    "word": "bleed",
+    "partofspeech": "v",
+    "chinese": "流血",
+    "example": ""
+  },
+  {
+    "index": 278,
+    "word": "blind",
+    "partofspeech": "adj",
+    "chinese": "盲的",
+    "example": ""
+  },
+  {
+    "index": 279,
+    "word": "block",
+    "partofspeech": "n",
+    "chinese": "街区",
+    "example": "• Shall we walk round the block?"
+  },
+  {
+    "index": 280,
+    "word": "blog",
+    "partofspeech": "n",
+    "chinese": "博客",
+    "example": ""
+  },
+  {
+    "index": 281,
+    "word": "blogger",
+    "partofspeech": "n",
+    "chinese": "博客作者",
+    "example": ""
+  },
+  {
+    "index": 282,
+    "word": "blond(e)",
+    "partofspeech": "adj",
+    "chinese": "金黄色的",
+    "example": ""
+  },
+  {
+    "index": 283,
+    "word": "blood",
+    "partofspeech": "n",
+    "chinese": "血液",
+    "example": ""
+  },
+  {
+    "index": 284,
+    "word": "blouse",
+    "partofspeech": "n",
+    "chinese": "女衬衫",
+    "example": ""
+  },
+  {
+    "index": 285,
+    "word": "blow",
+    "partofspeech": "v",
+    "chinese": "吹",
+    "example": ""
+  },
+  {
+    "index": 286,
+    "word": "blue",
+    "partofspeech": "adj & n",
+    "chinese": "蓝色的",
+    "example": ""
+  },
+  {
+    "index": 287,
+    "word": "board",
+    "partofspeech": "n & v",
+    "chinese": "木板",
+    "example": "board game (n)\nboarding pass (n)"
+  },
+  {
+    "index": 288,
+    "word": "boat",
+    "partofspeech": "n",
+    "chinese": "船",
+    "example": ""
+  },
+  {
+    "index": 289,
+    "word": "body",
+    "partofspeech": "n",
+    "chinese": "身体",
+    "example": ""
+  },
+  {
+    "index": 290,
+    "word": "boil",
+    "partofspeech": "v",
+    "chinese": "煮沸",
+    "example": ""
+  },
+  {
+    "index": 291,
+    "word": "boiled",
+    "partofspeech": "adj",
+    "chinese": "煮熟的",
+    "example": ""
+  },
+  {
+    "index": 292,
+    "word": "bold",
+    "partofspeech": "adj",
+    "chinese": "大胆的",
+    "example": ""
+  },
+  {
+    "index": 293,
+    "word": "bomb",
+    "partofspeech": "n & v",
+    "chinese": "炸弹",
+    "example": ""
+  },
+  {
+    "index": 294,
+    "word": "bone",
+    "partofspeech": "n",
+    "chinese": "骨头",
+    "example": ""
+  },
+  {
+    "index": 295,
+    "word": "book",
+    "partofspeech": "n & v",
+    "chinese": "书",
+    "example": "bookcase (n)\nbooking (n)\n• I have a booking for the 19th.\nbooking office (n)\nbookshelf (n)\nbookshop (n) (Br Eng) (Am Eng: bookstore)\nbookstore (n) (Am Eng) (Br Eng: bookshop)"
+  },
+  {
+    "index": 296,
+    "word": "boot",
+    "partofspeech": "n",
+    "chinese": "靴子",
+    "example": "• a pair of boots • the boot of the car (Am Eng: trunk)"
+  },
+  {
+    "index": 297,
+    "word": "border",
+    "partofspeech": "n",
+    "chinese": "边界",
+    "example": ""
+  },
+  {
+    "index": 298,
+    "word": "bored",
+    "partofspeech": "adj",
+    "chinese": "无聊的",
+    "example": ""
+  },
+  {
+    "index": 299,
+    "word": "boring",
+    "partofspeech": "adj",
+    "chinese": "令人厌烦的",
+    "example": ""
+  },
+  {
+    "index": 300,
+    "word": "born",
+    "partofspeech": "adj",
+    "chinese": "出生的",
+    "example": ""
+  },
+
+  {
+    "index": 301,
+    "word": "borrow",
+    "partofspeech": "v",
+    "chinese": "借",
+    "example": ""
+  },
+  {
+    "index": 302,
+    "word": "boss",
+    "partofspeech": "n",
+    "chinese": "老板",
+    "example": ""
+  },
+  {
+    "index": 303,
+    "word": "both",
+    "partofspeech": "pron & det",
+    "chinese": "两者都",
+    "example": ""
+  },
+  {
+    "index": 304,
+    "word": "bother",
+    "partofspeech": "v",
+    "chinese": "打扰",
+    "example": "• Sorry to bother you, can you tell me the time?\n• My job's hard but that doesn't bother me.\n• 'Sorry I'm late, I'll do it now.' 'Don't bother!'"
+  },
+  {
+    "index": 305,
+    "word": "bottle",
+    "partofspeech": "n",
+    "chinese": "瓶子",
+    "example": ""
+  },
+  {
+    "index": 306,
+    "word": "bottom",
+    "partofspeech": "adj & n",
+    "chinese": "底部",
+    "example": ""
+  },
+  {
+    "index": 307,
+    "word": "bowl",
+    "partofspeech": "n",
+    "chinese": "碗",
+    "example": ""
+  },
+  {
+    "index": 308,
+    "word": "box",
+    "partofspeech": "n",
+    "chinese": "盒子",
+    "example": ""
+  },
+  {
+    "index": 309,
+    "word": "boy",
+    "partofspeech": "n",
+    "chinese": "男孩",
+    "example": ""
+  },
+  {
+    "index": 310,
+    "word": "boyfriend",
+    "partofspeech": "n",
+    "chinese": "男朋友",
+    "example": ""
+  },
+  {
+    "index": 311,
+    "word": "bracelet",
+    "partofspeech": "n",
+    "chinese": "手镯",
+    "example": ""
+  },
+  {
+    "index": 312,
+    "word": "brain",
+    "partofspeech": "n",
+    "chinese": "大脑",
+    "example": ""
+  },
+  {
+    "index": 313,
+    "word": "brake",
+    "partofspeech": "n & v",
+    "chinese": "刹车",
+    "example": ""
+  },
+  {
+    "index": 314,
+    "word": "branch",
+    "partofspeech": "n",
+    "chinese": "分支",
+    "example": ""
+  },
+  {
+    "index": 315,
+    "word": "brand new",
+    "partofspeech": "adj",
+    "chinese": "全新的",
+    "example": ""
+  },
+  {
+    "index": 316,
+    "word": "brave",
+    "partofspeech": "adj",
+    "chinese": "勇敢的",
+    "example": ""
+  },
+  {
+    "index": 317,
+    "word": "bread",
+    "partofspeech": "n",
+    "chinese": "面包",
+    "example": ""
+  },
+  {
+    "index": 318,
+    "word": "break",
+    "partofspeech": "n & v",
+    "chinese": "休息",
+    "example": "break down (phr v)\n• The car has broken down.\nbreak in (phr v)\n• Someone broke in and stole the computer.\nbreak up (phr v)\n• When does school break up?\n• The pop group has broken up."
+  },
+  {
+    "index": 319,
+    "word": "breath",
+    "partofspeech": "n",
+    "chinese": "呼吸",
+    "example": ""
+  },
+  {
+    "index": 320,
+    "word": "breathe",
+    "partofspeech": "v",
+    "chinese": "呼吸",
+    "example": ""
+  },
+  {
+    "index": 321,
+    "word": "breeze",
+    "partofspeech": "n",
+    "chinese": "微风",
+    "example": ""
+  },
+  {
+    "index": 322,
+    "word": "bride",
+    "partofspeech": "n",
+    "chinese": "新娘",
+    "example": ""
+  },
+  {
+    "index": 323,
+    "word": "bridge",
+    "partofspeech": "n",
+    "chinese": "桥",
+    "example": ""
+  },
+  {
+    "index": 324,
+    "word": "brief",
+    "partofspeech": "adj",
+    "chinese": "简短的",
+    "example": ""
+  },
+  {
+    "index": 325,
+    "word": "bright",
+    "partofspeech": "adj",
+    "chinese": "明亮的",
+    "example": ""
+  },
+  {
+    "index": 326,
+    "word": "brilliant",
+    "partofspeech": "adj",
+    "chinese": "杰出的",
+    "example": ""
+  },
+  {
+    "index": 327,
+    "word": "bring",
+    "partofspeech": "v",
+    "chinese": "带来",
+    "example": "bring up (phr v)\n• She was brought up in London."
+  },
+  {
+    "index": 328,
+    "word": "broad",
+    "partofspeech": "adj",
+    "chinese": "宽阔的",
+    "example": ""
+  },
+  {
+    "index": 329,
+    "word": "broccoli",
+    "partofspeech": "n",
+    "chinese": "西兰花",
+    "example": ""
+  },
+  {
+    "index": 330,
+    "word": "brochure",
+    "partofspeech": "n",
+    "chinese": "小册子",
+    "example": ""
+  },
+  {
+    "index": 331,
+    "word": "broken",
+    "partofspeech": "adj",
+    "chinese": "破碎的",
+    "example": ""
+  },
+
+  {
+    "index": 332,
+    "word": "brother",
+    "partofspeech": "n",
+    "chinese": "兄弟",
+    "example": ""
+  },
+  {
+    "index": 333,
+    "word": "brown",
+    "partofspeech": "adj & n",
+    "chinese": "棕色的",
+    "example": ""
+  },
+  {
+    "index": 334,
+    "word": "brush",
+    "partofspeech": "n & v",
+    "chinese": "刷子",
+    "example": ""
+  },
+  {
+    "index": 335,
+    "word": "bucket",
+    "partofspeech": "n",
+    "chinese": "桶",
+    "example": ""
+  },
+  {
+    "index": 336,
+    "word": "bug",
+    "partofspeech": "n",
+    "chinese": "虫子",
+    "example": ""
+  },
+  {
+    "index": 337,
+    "word": "build",
+    "partofspeech": "v",
+    "chinese": "建造",
+    "example": ""
+  },
+  {
+    "index": 338,
+    "word": "building",
+    "partofspeech": "n",
+    "chinese": "建筑",
+    "example": ""
+  },
+  {
+    "index": 339,
+    "word": "bulb",
+    "partofspeech": "n",
+    "chinese": "灯泡",
+    "example": "• light bulb"
+  },
+  {
+    "index": 340,
+    "word": "bull",
+    "partofspeech": "n",
+    "chinese": "公牛",
+    "example": ""
+  },
+  {
+    "index": 341,
+    "word": "bunch",
+    "partofspeech": "n",
+    "chinese": "一束",
+    "example": "• a bunch of flowers • a great bunch of friends"
+  },
+  {
+    "index": 342,
+    "word": "burger",
+    "partofspeech": "n",
+    "chinese": "汉堡包",
+    "example": ""
+  },
+  {
+    "index": 343,
+    "word": "burn",
+    "partofspeech": "v",
+    "chinese": "燃烧",
+    "example": ""
+  },
+  {
+    "index": 344,
+    "word": "burning",
+    "partofspeech": "adj",
+    "chinese": "燃烧的",
+    "example": ""
+  },
+  {
+    "index": 345,
+    "word": "bury",
+    "partofspeech": "v",
+    "chinese": "埋葬",
+    "example": ""
+  },
+  {
+    "index": 346,
+    "word": "bus",
+    "partofspeech": "n",
+    "chinese": "公共汽车",
+    "example": ""
+  },
+  {
+    "index": 347,
+    "word": "business",
+    "partofspeech": "n",
+    "chinese": "生意",
+    "example": ""
+  },
+  {
+    "index": 348,
+    "word": "businessman",
+    "partofspeech": "n",
+    "chinese": "商人",
+    "example": ""
+  },
+  {
+    "index": 349,
+    "word": "businesswoman",
+    "partofspeech": "n",
+    "chinese": "女商人",
+    "example": ""
+  },
+  {
+    "index": 350,
+    "word": "bus station",
+    "partofspeech": "n",
+    "chinese": "公共汽车站",
+    "example": ""
+  },
+  {
+    "index": 351,
+    "word": "bus stop",
+    "partofspeech": "n",
+    "chinese": "公交车站",
+    "example": ""
+  },
+  {
+    "index": 352,
+    "word": "busy",
+    "partofspeech": "adj",
+    "chinese": "忙碌的",
+    "example": ""
+  },
+  {
+    "index": 353,
+    "word": "but",
+    "partofspeech": "conj & prep",
+    "chinese": "但是",
+    "example": ""
+  },
+  {
+    "index": 354,
+    "word": "butcher",
+    "partofspeech": "n",
+    "chinese": "屠夫",
+    "example": ""
+  },
+  {
+    "index": 355,
+    "word": "butter",
+    "partofspeech": "n",
+    "chinese": "黄油",
+    "example": ""
+  },
+  {
+    "index": 356,
+    "word": "butterfly",
+    "partofspeech": "n",
+    "chinese": "蝴蝶",
+    "example": ""
+  },
+  {
+    "index": 357,
+    "word": "button",
+    "partofspeech": "n",
+    "chinese": "按钮",
+    "example": ""
+  },
+  {
+    "index": 358,
+    "word": "buy",
+    "partofspeech": "v",
+    "chinese": "买",
+    "example": ""
+  },
+  {
+    "index": 359,
+    "word": "buyer",
+    "partofspeech": "n",
+    "chinese": "买家",
+    "example": ""
+  },
+  {
+    "index": 360,
+    "word": "by",
+    "partofspeech": "prep",
+    "chinese": "通过",
+    "example": "by accident (prep phr)\nbye (exclam)\nby hand (prep phr)\nby mistake (prep phr)\nby name (prep phr)"
+  },
+
   
 ]
