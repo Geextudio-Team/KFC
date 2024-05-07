@@ -1,0 +1,1751 @@
+[
+  {
+    "index": 1,
+    "word": "a/an",
+    "partofspeech": "det",
+    "chinese": "不定冠词",
+    "example": ""
+  },
+  {
+    "index": 2,
+    "word": "ability",
+    "partofspeech": "n",
+    "chinese": "能力",
+    "example": ""
+  },
+  {
+    "index": 3,
+    "word": "able",
+    "partofspeech": "adj",
+    "chinese": "能够的",
+    "example": "• be able to"
+  },
+  {
+    "index": 4,
+    "word": "about",
+    "partofspeech": "adv & prep",
+    "chinese": "关于，大约",
+    "example": "• about 500 students (adv)\n• The film is about a small boy. (prep)"
+  },
+  {
+    "index": 5,
+    "word": "above",
+    "partofspeech": "adj, adv & prep",
+    "chinese": "上面的，超过",
+    "example": ""
+  },
+  {
+    "index": 6,
+    "word": "abroad",
+    "partofspeech": "adv",
+    "chinese": "在国外",
+    "example": ""
+  },
+  {
+    "index": 7,
+    "word": "absent",
+    "partofspeech": "adj",
+    "chinese": "缺席的",
+    "example": ""
+  },
+  {
+    "index": 8,
+    "word": "absolutely",
+    "partofspeech": "adv",
+    "chinese": "绝对地",
+    "example": "• The movie was absolutely awful."
+  },
+  {
+    "index": 9,
+    "word": "accent",
+    "partofspeech": "n",
+    "chinese": "口音",
+    "example": "• She has a beautiful French accent."
+  },
+  {
+    "index": 10,
+    "word": "accept",
+    "partofspeech": "v",
+    "chinese": "接受",
+    "example": ""
+  },
+  {
+    "index": 11,
+    "word": "access",
+    "partofspeech": "n",
+    "chinese": "进入，访问",
+    "example": "• disabled access\n• internet access"
+  },
+  {
+    "index": 12,
+    "word": "accident",
+    "partofspeech": "n",
+    "chinese": "事故",
+    "example": ""
+  },
+  {
+    "index": 13,
+    "word": "accommodation",
+    "partofspeech": "n",
+    "chinese": "住宿",
+    "example": ""
+  },
+  {
+    "index": 14,
+    "word": "accompany",
+    "partofspeech": "v",
+    "chinese": "陪伴",
+    "example": ""
+  },
+  {
+    "index": 15,
+    "word": "according to",
+    "partofspeech": "prep phr",
+    "chinese": "根据",
+    "example": ""
+  },
+  {
+    "index": 16,
+    "word": "account",
+    "partofspeech": "n",
+    "chinese": "账户",
+    "example": ""
+  },
+  {
+    "index": 17,
+    "word": "accountant",
+    "partofspeech": "n",
+    "chinese": "会计",
+    "example": ""
+  },
+  {
+    "index": 18,
+    "word": "accurate",
+    "partofspeech": "adj",
+    "chinese": "准确的",
+    "example": ""
+  },
+  {
+    "index": 19,
+    "word": "ache",
+    "partofspeech": "n",
+    "chinese": "疼痛",
+    "example": ""
+  },
+  {
+    "index": 20,
+    "word": "achieve",
+    "partofspeech": "v",
+    "chinese": "实现",
+    "example": ""
+  },
+  {
+    "index": 21,
+    "word": "across",
+    "partofspeech": "adv & prep",
+    "chinese": "穿过",
+    "example": ""
+  },
+  {
+    "index": 22,
+    "word": "act",
+    "partofspeech": "n & v",
+    "chinese": "行为，表演",
+    "example": "• in the second act (of the play) (n)\n• to act in a play (v)\n• to act strangely (v)"
+  },
+  {
+    "index": 23,
+    "word": "action",
+    "partofspeech": "n",
+    "chinese": "行动",
+    "example": ""
+  },
+  {
+    "index": 24,
+    "word": "active",
+    "partofspeech": "adj",
+    "chinese": "积极的",
+    "example": ""
+  },
+  {
+    "index": 25,
+    "word": "activity",
+    "partofspeech": "n",
+    "chinese": "活动",
+    "example": ""
+  },
+  {
+    "index": 26,
+    "word": "actor",
+    "partofspeech": "n",
+    "chinese": "演员",
+    "example": ""
+  },
+  {
+    "index": 27,
+    "word": "actress",
+    "partofspeech": "n",
+    "chinese": "女演员",
+    "example": ""
+  },
+  {
+    "index": 28,
+    "word": "actually",
+    "partofspeech": "adv",
+    "chinese": "实际上",
+    "example": "• She seems a bit strict at first, but she's actually very nice.\n• Are you actually going to take the job?"
+  },
+  {
+    "index": 29,
+    "word": "ad",
+    "partofspeech": "n",
+    "chinese": "广告",
+    "example": ""
+  },
+  {
+    "index": 30,
+    "word": "add",
+    "partofspeech": "v",
+    "chinese": "添加",
+    "example": ""
+  },
+  {
+    "index": 31,
+    "word": "addition",
+    "partofspeech": "n",
+    "chinese": "加法，增加",
+    "example": "• in addition"
+  },
+  {
+    "index": 32,
+    "word": "address",
+    "partofspeech": "n",
+    "chinese": "地址",
+    "example": ""
+  },
+  {
+    "index": 33,
+    "word": "admire",
+    "partofspeech": "v",
+    "chinese": "钦佩",
+    "example": ""
+  },
+  {
+    "index": 34,
+    "word": "admission",
+    "partofspeech": "n",
+    "chinese": "入场费",
+    "example": "• charges/cost/price"
+  },
+  {
+    "index": 35,
+    "word": "admit",
+    "partofspeech": "v",
+    "chinese": "承认",
+    "example": ""
+  },
+  {
+    "index": 36,
+    "word": "adult",
+    "partofspeech": "adj & n",
+    "chinese": "成年的，成年人",
+    "example": ""
+  },
+  {
+    "index": 37,
+    "word": "advance",
+    "partofspeech": "n",
+    "chinese": "提前",
+    "example": "• book in advance"
+  },
+  {
+    "index": 38,
+    "word": "advanced",
+    "partofspeech": "adj",
+    "chinese": "高级的",
+    "example": ""
+  },
+  {
+    "index": 39,
+    "word": "advantage",
+    "partofspeech": "n",
+    "chinese": "优势",
+    "example": ""
+  },
+  {
+    "index": 40,
+    "word": "adventure",
+    "partofspeech": "n",
+    "chinese": "冒险",
+    "example": ""
+    },
+    {
+    "index": 41,
+    "word": "advert",
+    "partofspeech": "n",
+    "chinese": "广告",
+    "example": ""
+    },
+    {
+    "index": 42,
+    "word": "advertise",
+    "partofspeech": "v",
+    "chinese": "做广告",
+    "example": ""
+    },
+    {
+    "index": 43,
+    "word": "advertisement",
+    "partofspeech": "n",
+    "chinese": "广告",
+    "example": ""
+    },
+    {
+    "index": 44,
+    "word": "advice",
+    "partofspeech": "n",
+    "chinese": "建议",
+    "example": ""
+    },
+    {
+    "index": 45,
+    "word": "advise",
+    "partofspeech": "v",
+    "chinese": "建议",
+    "example": ""
+    },
+  {
+    "index": 46,
+    "word": "aeroplane",
+    "partofspeech": "n",
+    "chinese": "飞机",
+    "example": ""
+  },
+  {
+    "index": 47,
+    "word": "afford",
+    "partofspeech": "v",
+    "chinese": "负担得起",
+    "example": ""
+  },
+  {
+    "index": 48,
+    "word": "afraid",
+    "partofspeech": "adj",
+    "chinese": "害怕的",
+    "example": ""
+  },
+  {
+    "index": 49,
+    "word": "after",
+    "partofspeech": "adv, conj & prep",
+    "chinese": "在...之后",
+    "example": "afternoon (n)"
+  },
+  {
+    "index": 50,
+    "word": "afterwards",
+    "partofspeech": "adv",
+    "chinese": "之后",
+    "example": ""
+  },
+  {
+    "index": 51,
+    "word": "again",
+    "partofspeech": "adv",
+    "chinese": "再一次",
+    "example": ""
+  },
+  {
+    "index": 52,
+    "word": "against",
+    "partofspeech": "prep",
+    "chinese": "反对",
+    "example": ""
+  },
+  {
+    "index": 53,
+    "word": "age",
+    "partofspeech": "n",
+    "chinese": "年龄",
+    "example": ""
+  },
+  {
+    "index": 54,
+    "word": "aged",
+    "partofspeech": "adj",
+    "chinese": "年老的",
+    "example": ""
+  },
+  {
+    "index": 55,
+    "word": "agency",
+    "partofspeech": "n",
+    "chinese": "代理，机构",
+    "example": ""
+  },
+  {
+    "index": 56,
+    "word": "ago",
+    "partofspeech": "adv",
+    "chinese": "以前",
+    "example": ""
+  },
+  {
+    "index": 57,
+    "word": "agree",
+    "partofspeech": "v",
+    "chinese": "同意",
+    "example": ""
+  },
+  {
+    "index": 58,
+    "word": "ahead",
+    "partofspeech": "adv",
+    "chinese": "提前",
+    "example": ""
+  },
+  {
+    "index": 59,
+    "word": "aim",
+    "partofspeech": "n & v",
+    "chinese": "目标，瞄准",
+    "example": "aim (n)"
+  },
+  {
+    "index": 60,
+    "word": "air",
+    "partofspeech": "n",
+    "chinese": "空气",
+    "example": ""
+  },
+  {
+    "index": 61,
+    "word": "air conditioning",
+    "partofspeech": "n",
+    "chinese": "空调",
+    "example": ""
+  },
+  {
+    "index": 62,
+    "word": "air force",
+    "partofspeech": "n",
+    "chinese": "空军",
+    "example": ""
+  },
+  {
+    "index": 63,
+    "word": "airline",
+    "partofspeech": "n",
+    "chinese": "航空公司",
+    "example": ""
+  },
+  {
+    "index": 64,
+    "word": "airport",
+    "partofspeech": "n",
+    "chinese": "机场",
+    "example": ""
+  },
+  {
+    "index": 65,
+    "word": "alarm",
+    "partofspeech": "n",
+    "chinese": "警报",
+    "example": ""
+  },
+  {
+    "index": 66,
+    "word": "alarm clock",
+    "partofspeech": "n",
+    "chinese": "闹钟",
+    "example": ""
+  },
+  {
+    "index": 67,
+    "word": "album",
+    "partofspeech": "n",
+    "chinese": "相册",
+    "example": ""
+  },
+  {
+    "index": 68,
+    "word": "alike",
+    "partofspeech": "adv",
+    "chinese": "相似地",
+    "example": ""
+  },
+  {
+    "index": 69,
+    "word": "alive",
+    "partofspeech": "adj",
+    "chinese": "活着的",
+    "example": ""
+  },
+  {
+    "index": 70,
+    "word": "all",
+    "partofspeech": "adj, adv, det & pron",
+    "chinese": "全部的，所有的",
+    "example": "all right/alright (adj,adv & exclam)"
+  },
+  {
+    "index": 71,
+    "word": "allow",
+    "partofspeech": "v",
+    "chinese": "允许",
+    "example": ""
+  },
+  {
+    "index": 72,
+    "word": "almost",
+    "partofspeech": "adv",
+    "chinese": "几乎",
+    "example": ""
+  },
+  {
+    "index": 73,
+    "word": "alone",
+    "partofspeech": "adv & adj",
+    "chinese": "独自的",
+    "example": ""
+  },
+  {
+    "index": 74,
+    "word": "along",
+    "partofspeech": "adv & prep",
+    "chinese": "沿着",
+    "example": ""
+  },
+  {
+    "index": 75,
+    "word": "aloud",
+    "partofspeech": "adv",
+    "chinese": "大声地",
+    "example": ""
+  },
+  {
+    "index": 76,
+    "word": "alphabet",
+    "partofspeech": "n",
+    "chinese": "字母表",
+    "example": ""
+  },
+  {
+    "index": 77,
+    "word": "already",
+    "partofspeech": "adv",
+    "chinese": "已经",
+    "example": ""
+  },
+  {
+    "index": 78,
+    "word": "also",
+    "partofspeech": "adv",
+    "chinese": "也",
+    "example": ""
+  },
+  {
+    "index": 79,
+    "word": "although",
+    "partofspeech": "conj",
+    "chinese": "虽然",
+    "example": ""
+  },
+  {
+    "index": 80,
+    "word": "altogether",
+    "partofspeech": "adv",
+    "chinese": "总共",
+    "example": ""
+  },
+  {
+    "index": 81,
+    "word": "always",
+    "partofspeech": "adv",
+    "chinese": "总是",
+    "example": ""
+  },
+  {
+    "index": 82,
+    "word": "am",
+    "partofspeech": "av & v",
+    "chinese": "是",
+    "example": ""
+  },
+  {
+    "index": 83,
+    "word": "amazed",
+    "partofspeech": "adj",
+    "chinese": "吃惊的",
+    "example": ""
+  },
+  {
+    "index": 84,
+    "word": "amazing",
+    "partofspeech": "adj",
+    "chinese": "令人吃惊的",
+    "example": ""
+  },
+  {
+    "index": 85,
+    "word": "ambition",
+    "partofspeech": "n",
+    "chinese": "雄心",
+    "example": ""
+  },
+  {
+    "index": 86,
+    "word": "ambulance",
+    "partofspeech": "n",
+    "chinese": "救护车",
+    "example": ""
+  },
+  {
+    "index":87,
+"word": "among",
+"partofspeech": "prep",
+"chinese": "在...中",
+"example": ""
+},
+{
+"index": 88,
+"word": "amount",
+"partofspeech": "n",
+"chinese": "数量",
+"example": ""
+},
+{
+"index": 89,
+"word": "amusing",
+"partofspeech": "adj",
+"chinese": "有趣的",
+"example": ""
+},
+{
+"index": 90,
+"word": "an",
+"partofspeech": "det",
+"chinese": "一个（以元音开头的单数名词前）",
+"example": ""
+},
+
+{
+    "index": 91,
+    "word": "ancient",
+    "partofspeech": "adj",
+    "chinese": "古代的",
+    "example": ""
+  },
+  {
+    "index": 92,
+    "word": "and",
+    "partofspeech": "conj",
+    "chinese": "和",
+    "example": ""
+  },
+  {
+    "index": 93,
+    "word": "angry",
+    "partofspeech": "adj",
+    "chinese": "生气的",
+    "example": ""
+  },
+  {
+    "index": 94,
+    "word": "animal",
+    "partofspeech": "n",
+    "chinese": "动物",
+    "example": ""
+  },
+  {
+    "index": 95,
+    "word": "ankle",
+    "partofspeech": "n",
+    "chinese": "踝",
+    "example": ""
+  },
+  {
+    "index": 96,
+    "word": "anniversary",
+    "partofspeech": "n",
+    "chinese": "周年纪念",
+    "example": ""
+  },
+  {
+    "index": 97,
+    "word": "announce",
+    "partofspeech": "v",
+    "chinese": "宣布",
+    "example": ""
+  },
+  {
+    "index": 98,
+    "word": "announcement",
+    "partofspeech": "n",
+    "chinese": "公告",
+    "example": ""
+  },
+  {
+    "index": 99,
+    "word": "annoy",
+    "partofspeech": "v",
+    "chinese": "使烦恼",
+    "example": ""
+  },
+  {
+    "index": 100,
+    "word": "annual",
+    "partofspeech": "adj",
+    "chinese": "年度的",
+    "example": ""
+  },
+  {
+    "index": 101,
+    "word": "another",
+    "partofspeech": "det & pron",
+    "chinese": "另一个",
+    "example": ""
+  },
+  {
+    "index": 102,
+    "word": "answer",
+    "partofspeech": "n & v",
+    "chinese": "回答",
+    "example": "answer (n & v)"
+  },
+  {
+    "index": 103,
+    "word": "answerphone",
+    "partofspeech": "n",
+    "chinese": "答录机",
+    "example": ""
+  },
+  {
+    "index": 104,
+    "word": "ant",
+    "partofspeech": "n",
+    "chinese": "蚂蚁",
+    "example": ""
+  },
+  {
+    "index": 105,
+    "word": "antique",
+    "partofspeech": "adj & n",
+    "chinese": "古董",
+    "example": ""
+  },
+  {
+    "index": 106,
+    "word": "anxious",
+    "partofspeech": "adj",
+    "chinese": "焦虑的",
+    "example": ""
+  },
+  {
+    "index": 107,
+    "word": "any",
+    "partofspeech": "det & pron",
+    "chinese": "任何的",
+    "example": ""
+  },
+  {
+    "index": 108,
+    "word": "anybody",
+    "partofspeech": "pron",
+    "chinese": "任何人",
+    "example": ""
+  },
+  {
+    "index": 109,
+    "word": "anymore",
+    "partofspeech": "adv",
+    "chinese": "再也不",
+    "example": ""
+  },
+  {
+    "index": 110,
+    "word": "anyone",
+    "partofspeech": "pron",
+    "chinese": "任何人",
+    "example": ""
+  },
+  {
+    "index": 111,
+    "word": "anything",
+    "partofspeech": "pron",
+    "chinese": "任何事",
+    "example": ""
+  },
+  {
+    "index": 112,
+    "word": "anyway",
+    "partofspeech": "adv",
+    "chinese": "无论如何",
+    "example": ""
+  },
+  {
+    "index": 113,
+    "word": "anywhere",
+    "partofspeech": "adv",
+    "chinese": "任何地方",
+    "example": ""
+  },
+  {
+    "index": 114,
+    "word": "apart",
+    "partofspeech": "adv",
+    "chinese": "分开地",
+    "example": ""
+  },
+  {
+    "index": 115,
+    "word": "apart from",
+    "partofspeech": "adv",
+    "chinese": "除了",
+    "example": ""
+  },
+  {
+    "index": 116,
+    "word": "apartment",
+    "partofspeech": "n",
+    "chinese": "公寓",
+    "example": ""
+  },
+  {
+    "index": 117,
+    "word": "apartment building",
+    "partofspeech": "n",
+    "chinese": "公寓大楼",
+    "example": ""
+  },
+  {
+    "index": 118,
+    "word": "apologise",
+    "partofspeech": "v",
+    "chinese": "道歉",
+    "example": ""
+  },
+  {
+    "index": 119,
+    "word": "apology",
+    "partofspeech": "n",
+    "chinese": "道歉",
+    "example": ""
+  },
+  {
+    "index": 120,
+    "word": "appear",
+    "partofspeech": "v",
+    "chinese": "出现",
+    "example": "appear (v)"
+  },
+
+  {
+    "index": 121,
+    "word": "appearance",
+    "partofspeech": "n",
+    "chinese": "外观",
+    "example": ""
+  },
+  {
+    "index": 122,
+    "word": "apple",
+    "partofspeech": "n",
+    "chinese": "苹果",
+    "example": ""
+  },
+  {
+    "index": 123,
+    "word": "application",
+    "partofspeech": "n",
+    "chinese": "申请",
+    "example": ""
+  },
+  {
+    "index": 124,
+    "word": "apply",
+    "partofspeech": "v",
+    "chinese": "申请",
+    "example": ""
+  },
+  {
+    "index": 125,
+    "word": "appointment",
+    "partofspeech": "n",
+    "chinese": "约会",
+    "example": ""
+  },
+  {
+    "index": 126,
+    "word": "approach",
+    "partofspeech": "v",
+    "chinese": "接近",
+    "example": ""
+  },
+  {
+    "index": 127,
+    "word": "approve",
+    "partofspeech": "v",
+    "chinese": "批准",
+    "example": ""
+  },
+  {
+    "index": 128,
+    "word": "architect",
+    "partofspeech": "n",
+    "chinese": "建筑师",
+    "example": ""
+  },
+  {
+    "index": 129,
+    "word": "architecture",
+    "partofspeech": "n",
+    "chinese": "建筑学",
+    "example": ""
+  },
+  {
+    "index": 130,
+    "word": "area",
+    "partofspeech": "n",
+    "chinese": "区域",
+    "example": ""
+  },
+  {
+    "index": 131,
+    "word": "argue",
+    "partofspeech": "v",
+    "chinese": "争论",
+    "example": ""
+  },
+  {
+    "index": 132,
+    "word": "argument",
+    "partofspeech": "n",
+    "chinese": "争论",
+    "example": ""
+  },
+  {
+    "index": 133,
+    "word": "arm",
+    "partofspeech": "n",
+    "chinese": "手臂",
+    "example": ""
+  },
+  {
+    "index": 134,
+    "word": "armchair",
+    "partofspeech": "n",
+    "chinese": "扶手椅",
+    "example": ""
+  },
+  {
+    "index": 135,
+    "word": "army",
+    "partofspeech": "n",
+    "chinese": "军队",
+    "example": ""
+  },
+  {
+    "index": 136,
+    "word": "around",
+    "partofspeech": "adv & prep",
+    "chinese": "围绕",
+    "example": ""
+  },
+  {
+    "index": 137,
+    "word": "arrange",
+    "partofspeech": "v",
+    "chinese": "安排",
+    "example": ""
+  },
+  {
+    "index": 138,
+    "word": "arrangement",
+    "partofspeech": "n",
+    "chinese": "安排",
+    "example": ""
+  },
+  {
+    "index": 139,
+    "word": "arrest",
+    "partofspeech": "v",
+    "chinese": "逮捕",
+    "example": ""
+  },
+  {
+    "index": 140,
+    "word": "arrival",
+    "partofspeech": "n",
+    "chinese": "到达",
+    "example": ""
+  },
+  {
+    "index": 141,
+    "word": "arrive",
+    "partofspeech": "v",
+    "chinese": "到达",
+    "example": ""
+  },
+  {
+    "index": 142,
+    "word": "art",
+    "partofspeech": "n",
+    "chinese": "艺术",
+    "example": ""
+  },
+  {
+    "index": 143,
+    "word": "article",
+    "partofspeech": "n",
+    "chinese": "文章",
+    "example": ""
+  },
+  {
+    "index": 144,
+    "word": "artist",
+    "partofspeech": "n",
+    "chinese": "艺术家",
+    "example": ""
+  },
+  {
+    "index": 145,
+    "word": "as",
+    "partofspeech": "conj & prep",
+    "chinese": "作为",
+    "example": ""
+  },
+  {
+    "index": 146,
+    "word": "ashamed",
+    "partofspeech": "adj",
+    "chinese": "羞愧的",
+    "example": ""
+  },
+  {
+    "index": 147,
+    "word": "ask",
+    "partofspeech": "v",
+    "chinese": "问",
+    "example": ""
+  },
+  {
+    "index": 148,
+    "word": "asleep",
+    "partofspeech": "adj",
+    "chinese": "睡着的",
+    "example": ""
+  },
+  {
+    "index": 149,
+    "word": "aspirin",
+    "partofspeech": "n",
+    "chinese": "阿司匹林",
+    "example": ""
+  },
+  {
+    "index": 150,
+    "word": "assistant",
+    "partofspeech": "n",
+    "chinese": "助手",
+    "example": ""
+  },
+  {
+    "index": 151,
+    "word": "as well",
+    "partofspeech": "as (prep & adv)",
+    "chinese": "也",
+    "example": ""
+  },
+  {
+    "index": 152,
+    "word": "at",
+    "partofspeech": "prep",
+    "chinese": "在",
+    "example": "at I@ (n)"
+  },
+  {
+    "index": 153,
+    "word": "at all",
+    "partofspeech": "prep phr",
+    "chinese": "根本",
+    "example": ""
+  },
+  {
+    "index": 154,
+    "word": "at first",
+    "partofspeech": "prep phr",
+    "chinese": "起初",
+    "example": ""
+  },
+  {
+    "index": 155,
+    "word": "athlete",
+    "partofspeech": "n",
+    "chinese": "运动员",
+    "example": ""
+  },
+  {
+    "index": 156,
+    "word": "athletics",
+    "partofspeech": "n",
+    "chinese": "田径运动",
+    "example": ""
+  },
+  {
+    "index": 157,
+    "word": "at last",
+    "partofspeech": "prep phr",
+    "chinese": "终于",
+    "example": ""
+  },
+  {
+    "index": 158,
+    "word": "at least",
+    "partofspeech": "prep phr",
+    "chinese": "至少",
+    "example": ""
+  },
+  {
+    "index": 159,
+    "word": "atmosphere",
+    "partofspeech": "n",
+    "chinese": "气氛",
+    "example": ""
+  },
+  {
+    "index": 160,
+    "word": "at once",
+    "partofspeech": "prep phr",
+    "chinese": "立刻",
+    "example": ""
+  },
+
+  {
+    "index": 161,
+    "word": "at present",
+    "partofspeech": "prep phr",
+    "chinese": "目前",
+    "example": ""
+  },
+  {
+    "index": 162,
+    "word": "attach",
+    "partofspeech": "v",
+    "chinese": "附上",
+    "example": ""
+  },
+  {
+    "index": 163,
+    "word": "attack",
+    "partofspeech": "n & v",
+    "chinese": "攻击",
+    "example": ""
+  },
+  {
+    "index": 164,
+    "word": "attempt",
+    "partofspeech": "v",
+    "chinese": "尝试",
+    "example": ""
+  },
+  {
+    "index": 165,
+    "word": "attend",
+    "partofspeech": "v",
+    "chinese": "参加",
+    "example": ""
+  },
+  {
+    "index": 166,
+    "word": "attention",
+    "partofspeech": "n",
+    "chinese": "注意",
+    "example": ""
+  },
+  {
+    "index": 167,
+    "word": "at the same time",
+    "partofspeech": "prep phr",
+    "chinese": "同时",
+    "example": ""
+  },
+  {
+    "index": 168,
+    "word": "attitude",
+    "partofspeech": "n",
+    "chinese": "态度",
+    "example": ""
+  },
+  {
+    "index": 169,
+    "word": "attract",
+    "partofspeech": "v",
+    "chinese": "吸引",
+    "example": ""
+  },
+  {
+    "index": 170,
+    "word": "attraction",
+    "partofspeech": "n",
+    "chinese": "吸引",
+    "example": ""
+  },
+  {
+    "index": 171,
+    "word": "attractive",
+    "partofspeech": "adj",
+    "chinese": "有吸引力的",
+    "example": ""
+  },
+  {
+    "index": 172,
+    "word": "audience",
+    "partofspeech": "n",
+    "chinese": "观众",
+    "example": ""
+  },
+  {
+    "index": 173,
+    "word": "aunt",
+    "partofspeech": "n",
+    "chinese": "阿姨",
+    "example": ""
+  },
+  {
+    "index": 174,
+    "word": "author",
+    "partofspeech": "n",
+    "chinese": "作者",
+    "example": ""
+  },
+  {
+    "index": 175,
+    "word": "autumn",
+    "partofspeech": "n",
+    "chinese": "秋天",
+    "example": "(Br Eng) (Am Eng: fall)"
+  },
+  {
+    "index": 176,
+    "word": "available",
+    "partofspeech": "adj",
+    "chinese": "可用的",
+    "example": ""
+  },
+  {
+    "index": 177,
+    "word": "average",
+    "partofspeech": "adj & n",
+    "chinese": "平均的",
+    "example": ""
+  },
+  {
+    "index": 178,
+    "word": "avoid",
+    "partofspeech": "v",
+    "chinese": "避免",
+    "example": ""
+  },
+  {
+    "index": 179,
+    "word": "awake",
+    "partofspeech": "adj",
+    "chinese": "醒着的",
+    "example": ""
+  },
+  {
+    "index": 180,
+    "word": "away",
+    "partofspeech": "adv",
+    "chinese": "离开",
+    "example": ""
+  },
+  {
+    "index": 181,
+    "word": "awful",
+    "partofspeech": "adj",
+    "chinese": "可怕的",
+    "example": ""
+  },
+  {
+    "index": 182,
+    "word": "B",
+    "partofspeech": "n",
+    "chinese": "字母B",
+    "example": ""
+  },
+  {
+    "index": 183,
+    "word": "baby",
+    "partofspeech": "n",
+    "chinese": "婴儿",
+    "example": ""
+  },
+  {
+    "index": 184,
+    "word": "babysit",
+    "partofspeech": "v",
+    "chinese": "临时照顾婴儿",
+    "example": ""
+  },
+  {
+    "index": 185,
+    "word": "babysitter",
+    "partofspeech": "n",
+    "chinese": "临时照顾婴儿的人",
+    "example": ""
+  },
+  {
+    "index": 186,
+    "word": "back",
+    "partofspeech": "adv, adj & n",
+    "chinese": "后面",
+    "example": ""
+  },
+  {
+    "index": 187,
+    "word": "background",
+    "partofspeech": "n",
+    "chinese": "背景",
+    "example": ""
+  },
+  {
+    "index": 188,
+    "word": "backpack",
+    "partofspeech": "n",
+    "chinese": "背包",
+    "example": ""
+  },
+  {
+    "index": 189,
+    "word": "backpacker",
+    "partofspeech": "n",
+    "chinese": "背包客",
+    "example": ""
+  },
+  {
+    "index": 190,
+    "word": "backpacking",
+    "partofspeech": "n",
+    "chinese": "背包旅行",
+    "example": ""
+  },
+  {
+    "index": 191,
+    "word": "backwards",
+    "partofspeech": "adv",
+    "chinese": "向后地",
+    "example": ""
+  },
+  {
+    "index": 192,
+    "word": "bad",
+    "partofspeech": "adj",
+    "chinese": "坏的",
+    "example": ""
+  },
+  {
+    "index": 193,
+    "word": "badly",
+    "partofspeech": "adv",
+    "chinese": "严重地",
+    "example": ""
+  },
+  {
+    "index": 194,
+    "word": "badminton",
+    "partofspeech": "n",
+    "chinese": "羽毛球",
+    "example": ""
+  },
+  {
+    "index": 195,
+    "word": "bag",
+    "partofspeech": "n",
+    "chinese": "包",
+    "example": ""
+  },
+  {
+    "index": 196,
+    "word": "baggage",
+    "partofspeech": "n",
+    "chinese": "行李",
+    "example": ""
+  },
+  {
+    "index": 197,
+    "word": "bake",
+    "partofspeech": "v",
+    "chinese": "烘焙",
+    "example": ""
+  },
+  {
+    "index": 198,
+    "word": "baker",
+    "partofspeech": "n",
+    "chinese": "面包师",
+    "example": ""
+  },
+  {
+    "index": 199,
+    "word": "balcony",
+    "partofspeech": "n",
+    "chinese": "阳台",
+    "example": ""
+  },
+  {
+    "index": 200,
+    "word": "bald",
+    "partofspeech": "adj",
+    "chinese": "秃顶的",
+    "example": ""
+  },
+
+  {
+    "index": 201,
+    "word": "ball",
+    "partofspeech": "n",
+    "chinese": "球",
+    "example": ""
+  },
+  {
+    "index": 202,
+    "word": "ballet",
+    "partofspeech": "n",
+    "chinese": "芭蕾舞",
+    "example": ""
+  },
+  {
+    "index": 203,
+    "word": "balloon",
+    "partofspeech": "n",
+    "chinese": "气球",
+    "example": ""
+  },
+  {
+    "index": 204,
+    "word": "banana",
+    "partofspeech": "n",
+    "chinese": "香蕉",
+    "example": ""
+  },
+  {
+    "index": 205,
+    "word": "band",
+    "partofspeech": "n",
+    "chinese": "乐队",
+    "example": ""
+  },
+  {
+    "index": 206,
+    "word": "bandage",
+    "partofspeech": "n",
+    "chinese": "绷带",
+    "example": ""
+  },
+  {
+    "index": 207,
+    "word": "bank",
+    "partofspeech": "n",
+    "chinese": "银行",
+    "example": ""
+  },
+  {
+    "index": 208,
+    "word": "bank account",
+    "partofspeech": "n",
+    "chinese": "银行账户",
+    "example": ""
+  },
+  {
+    "index": 209,
+    "word": "banking",
+    "partofspeech": "n",
+    "chinese": "银行业",
+    "example": ""
+  },
+  {
+    "index": 210,
+    "word": "bar",
+    "partofspeech": "n",
+    "chinese": "条，酒吧",
+    "example": ""
+  },
+  {
+    "index": 211,
+    "word": "barbecue",
+    "partofspeech": "n & v",
+    "chinese": "烧烤",
+    "example": ""
+  },
+  {
+    "index": 212,
+    "word": "base",
+    "partofspeech": "on (phr v)",
+    "chinese": "基于",
+    "example": ""
+  },
+  {
+    "index": 213,
+    "word": "basic",
+    "partofspeech": "adj",
+    "chinese": "基本的",
+    "example": ""
+  },
+  {
+    "index": 214,
+    "word": "basin",
+    "partofspeech": "n",
+    "chinese": "盆地",
+    "example": ""
+  },
+  {
+    "index": 215,
+    "word": "basket",
+    "partofspeech": "n",
+    "chinese": "篮子",
+    "example": ""
+  },
+  {
+    "index": 216,
+    "word": "basketball",
+    "partofspeech": "n",
+    "chinese": "篮球",
+    "example": ""
+  },
+  {
+    "index": 217,
+    "word": "bat",
+    "partofspeech": "n",
+    "chinese": "蝙蝠，球棒",
+    "example": ""
+  },
+  {
+    "index": 218,
+    "word": "bath",
+    "partofspeech": "n & v",
+    "chinese": "洗澡",
+    "example": ""
+  },
+  {
+    "index": 219,
+    "word": "bathing suit",
+    "partofspeech": "n",
+    "chinese": "泳衣",
+    "example": ""
+  },
+  {
+    "index": 220,
+    "word": "bathroom",
+    "partofspeech": "n",
+    "chinese": "浴室",
+    "example": ""
+  },
+  {
+    "index": 221,
+    "word": "bathtub",
+    "partofspeech": "n",
+    "chinese": "浴缸",
+    "example": ""
+  },
+  {
+    "index": 222,
+    "word": "battery",
+    "partofspeech": "n",
+    "chinese": "电池",
+    "example": ""
+  },
+  {
+    "index": 223,
+    "word": "battle",
+    "partofspeech": "n",
+    "chinese": "战斗",
+    "example": ""
+  },
+  {
+    "index": 224,
+    "word": "bay",
+    "partofspeech": "n",
+    "chinese": "海湾",
+    "example": ""
+  },
+  {
+    "index": 225,
+    "word": "be",
+    "partofspeech": "av & v",
+    "chinese": "是",
+    "example": ""
+  },
+  {
+    "index": 226,
+    "word": "beach",
+    "partofspeech": "n",
+    "chinese": "海滩",
+    "example": ""
+  },
+  {
+    "index": 227,
+    "word": "bean",
+    "partofspeech": "n",
+    "chinese": "豆",
+    "example": ""
+  },
+  {
+    "index": 228,
+    "word": "bear",
+    "partofspeech": "n",
+    "chinese": "熊",
+    "example": ""
+  },
+  {
+    "index": 229,
+    "word": "beard",
+    "partofspeech": "n",
+    "chinese": "胡须",
+    "example": ""
+  },
+  {
+    "index": 230,
+    "word": "beat",
+    "partofspeech": "v",
+    "chinese": "打败",
+    "example": ""
+  },
+  {
+    "index": 231,
+    "word": "beautiful",
+    "partofspeech": "adj",
+    "chinese": "美丽的",
+    "example": ""
+  },
+  {
+    "index": 232,
+    "word": "beauty",
+    "partofspeech": "n",
+    "chinese": "美丽",
+    "example": ""
+  },
+  {
+    "index": 233,
+    "word": "because",
+    "partofspeech": "conj",
+    "chinese": "因为",
+    "example": ""
+  },
+  {
+    "index": 234,
+    "word": "because of",
+    "partofspeech": "prep phr",
+    "chinese": "由于",
+    "example": ""
+  },
+  {
+    "index": 235,
+    "word": "become",
+    "partofspeech": "v",
+    "chinese": "变得",
+    "example": ""
+  },
+  {
+    "index": 236,
+    "word": "bed",
+    "partofspeech": "n",
+    "chinese": "床",
+    "example": ""
+  },
+  {
+    "index": 237,
+    "word": "bedroom",
+    "partofspeech": "n",
+    "chinese": "卧室",
+    "example": ""
+  },
+  {
+    "index": 238,
+    "word": "bee",
+    "partofspeech": "n",
+    "chinese": "蜜蜂",
+    "example": ""
+  },
+  {
+    "index": 239,
+    "word": "beef",
+    "partofspeech": "n",
+    "chinese": "牛肉",
+    "example": ""
+  },
+  {
+    "index": 240,
+    "word": "before",
+    "partofspeech": "prep, adv & conj",
+    "chinese": "在...之前",
+    "example": ""
+  },
+  {
+    "index": 241,
+    "word": "begin",
+    "partofspeech": "v",
+    "chinese": "开始",
+    "example": ""
+  },
+  {
+    "index": 242,
+    "word": "beginner",
+    "partofspeech": "n",
+    "chinese": "初学者",
+    "example": ""
+  },
+  {
+    "index": 243,
+    "word": "beginning",
+    "partofspeech": "n",
+    "chinese": "开始",
+    "example": ""
+    },
+    {
+    "index": 244,
+    "word": "behave",
+    "partofspeech": "v",
+    "chinese": "表现",
+    "example": ""
+    },
+    {
+    "index": 245,
+    "word": "behaviour",
+    "partofspeech": "n",
+    "chinese": "行为",
+    "example": ""
+    },
+    {
+    "index": 246,
+    "word": "behind",
+    "partofspeech": "prep & adv",
+    "chinese": "在...后面",
+    "example": ""
+    },
+    {
+    "index": 247,
+    "word": "believe",
+    "partofspeech": "v",
+    "chinese": "相信",
+    "example": ""
+    },
+    {
+    "index": 248,
+    "word": "bell",
+    "partofspeech": "n",
+    "chinese": "铃",
+    "example": ""
+    },
+    {
+    "index": 249,
+    "word": "belong",
+    "partofspeech": "v",
+    "chinese": "属于",
+    "example": ""
+    },
+
+  
+]
