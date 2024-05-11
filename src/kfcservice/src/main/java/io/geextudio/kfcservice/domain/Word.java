@@ -11,9 +11,9 @@ public class Word {
 	@GeneratedValue(strategy=GenerationType.AUTO)
 	private int id;
 	
-	public Word(int id, String text, String translation, String partofspeech, String example) {
+	public Word(/* int id, */String text, String translation, String partofspeech, String example) {
 		super();
-		this.id = id;
+//		this.id = id;
 		this.text = text;
 		this.translation = translation;
 		this.partofspeech = partofspeech;
@@ -24,9 +24,9 @@ public class Word {
 		return id;
 	}
 
-	public void setId(int id) {
-		this.id = id;
-	}
+//	public void setId(int id) {
+//		this.id = id;
+//	}
 
 	public String getText() {
 		return text;
