@@ -6,7 +6,7 @@ KFC (Knowledge Forgetting Curve) Forgetting Curve) is a Web Application to use [
 > To take notes while studing, [Cornell Note-Taking System](https://canvas.cornell.edu/courses/1451) is very useful to improve efficiency.
 
 ## Tech Stack
-* Vue3 Latest ecosystem (Nuxt/Quasar/ionic framework (vue)/...)
+* Vue Latest ecosystem (Nuxt/uni-app/...)
 * LocalForge
 * PWA
 * Echarts.js
