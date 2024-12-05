@@ -3,7 +3,7 @@ KFC (Knowledge Forgetting Curve) Forgetting Curve) is a Web Application to use [
 
 > For complex conceptions, we suggest users go with [Feynman Technique](https://study.com/blog/how-i-used-the-feynman-technique-to-study-and-got-better-grades.html) to master/learn related knowledge.
 > 
-> To take notes while studing, [Cornell Note-Taking System](https://zh.wikipedia.org/wiki/%E5%BA%B7%E5%A5%88%E5%B0%94%E7%AC%94%E8%AE%B0%E6%B3%95) is very useful to improve efficiency.
+> To take notes while studing, [Cornell Note-Taking System](https://canvas.cornell.edu/courses/1451) is very useful to improve efficiency.
 
 ## Tech Stack
 * Vue3 Latest ecosystem (Nuxt/Quasar/ionic framework (vue)/...)
